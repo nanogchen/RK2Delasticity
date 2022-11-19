@@ -1,6 +1,10 @@
 ## RKPM-PDE and elasticity
 
-A RMPM code developed for solving PDEs. Here the elasticity is solved: 
+A RMPM code developed for solving PDEs. Here the elasticity is solved using four approaches:
+1. Transformation method
+2. Lagrangian multiplier
+3. Penalty method
+4. Nitsche's method
 
 <img src="RK.JPG" alt="drawing" width="200" align="center"/>
 
