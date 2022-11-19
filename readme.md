@@ -9,7 +9,7 @@ A RMPM code developed for solving PDEs. Here the elasticity is solved using mult
   - postprocessing: solve strain/stress
 - run_cases: sample applications 
 
-![RK](./RK.JPG)
+<img src="RK.JPG" alt="drawing" width="200"/>
 
 ## How to cite
 Chen, Guang. "MESHFREE VISCOELASTIC MODELING: TOWARD NUMERICAL SIMULATION OF PRINTING CONCRETE STRUCTURES." (2019).
