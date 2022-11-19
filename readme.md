@@ -6,7 +6,7 @@ A RMPM code developed for solving PDEs. Here the elasticity is solved using four
 3. Penalty method
 4. Nitsche's method
 
-<img src="RK.JPG" alt="Paris" width="200" class="center"/>
+<center><img src="RK.JPG" width="200"/></center>
 
 ## Content
 - source: the source code including:
