@@ -1,0 +1,48 @@
+*d_Xrange
+#x_start, x_end 
+0.0, 4.0
+
+*d_Yrange
+#y_start, y_end
+-0.5, 0.5
+
+*i_Nxynodes
+#npx,npy: node numbers in x,and y direction
+41, 11 
+
+*i_NxyGaussPts
+#nGx,nGy: nGx*nGy Gauss points in a cell
+2, 2
+
+*i_NGBC
+#nGBC: number of gauss point in the boundary segment
+2
+
+*d_Dilation
+#dilation parameter
+1.75
+
+*d_Elastic
+#Elasity modulus
+0.30E+08
+
+*d_Poisson
+#nu: poisson ratio
+0.3
+
+*i_Model
+#i_stresstrain: 1 - plane stress; or 2 - plane strain;
+1
+
+*Pforce
+#tip force applied
+0.10E+04
+
+*i_Algorithm
+#i_algrithm: 1-transformation; 2-Lagrangian Multiplier; 3-Penalty; 4-Nitsche's Method
+1
+
+*d_Beta
+#beta: for penalty method and Nitsche's method
+0.10E+06
+
